@@ -1,0 +1,13 @@
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
