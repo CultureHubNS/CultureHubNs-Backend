@@ -11,3 +11,16 @@ C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstanda
 C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
 C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
 C:\Users\milic\Desktop\CultureHubNS\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.pdb

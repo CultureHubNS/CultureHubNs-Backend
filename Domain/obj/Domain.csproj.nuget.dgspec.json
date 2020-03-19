@@ -1,30 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Katarina\\Desktop\\Kaca Projekat\\Backend\\CultureHubNs-Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\Katarina\\Desktop\\Kaca Projekat\\Backend\\CultureHubNs-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Katarina\\Desktop\\Kaca Projekat\\Backend\\CultureHubNs-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\milic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Katarina\\Desktop\\Kaca Projekat\\Backend\\CultureHubNs-Backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Katarina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katarina\\Desktop\\Kaca Projekat\\Backend\\CultureHubNs-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Katarina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Katarina\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
