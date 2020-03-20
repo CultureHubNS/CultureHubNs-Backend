@@ -20,3 +20,14 @@ C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Persistence
 C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
 C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.dll
 C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\bin\Debug\netstandard2.1\Persistence.deps.json
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Persistence\obj\Debug\netstandard2.1\Persistence.pdb

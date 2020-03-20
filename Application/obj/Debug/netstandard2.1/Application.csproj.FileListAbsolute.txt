@@ -24,3 +24,16 @@ C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application
 C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
 C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.dll
 C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Application\obj\Debug\netstandard2.1\Application.pdb
