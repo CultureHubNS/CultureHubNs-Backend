@@ -6,3 +6,19 @@ C:\Users\milic\Desktop\CultureHubNS\Reactivities\Domain\obj\Debug\netstandard2.1
 C:\Users\milic\Desktop\CultureHubNS\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
 C:\Users\milic\Desktop\CultureHubNS\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.dll
 C:\Users\milic\Desktop\CultureHubNS\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Katarina\Desktop\Kaca Projekat\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\Domain\obj\Debug\netstandard2.1\Domain.pdb
