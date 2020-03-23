@@ -11,9 +11,8 @@ namespace Persistence
     {
         public static async Task SeedData(DataContext context, UserManager<AppUser> userManager)
         {
+				
 			if(!userManager.Users.Any())
-
-            if(!context.Activities.Any())
 			{
 				var users = new List<AppUser>
 				{
@@ -38,11 +37,13 @@ namespace Persistence
 				};
 				foreach (var user in users)
 				{
-					await userManager.CreateAsync(user, "Pa$$w)rd");
+					await userManager.CreateAsync(user, "Pa$$w0rd");
 				}
 			}
 
-            {
+           
+		   if(!context.Activities.Any())
+		    {
                 var activities = new List<Activity>
                 {
                  new Activity
