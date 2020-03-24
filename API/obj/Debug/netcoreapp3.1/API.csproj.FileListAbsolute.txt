@@ -226,3 +226,6 @@ C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreap
 C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Super User\Desktop\Backend\CultureHubNs-Backend\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
