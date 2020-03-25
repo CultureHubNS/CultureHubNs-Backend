@@ -6519,23 +6519,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\milic\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Super User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\milic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Super User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\milic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Super User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6548,11 +6544,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\milic\\Desktop\\CultureHubNS\\Reactivities\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Super User\\Desktop\\Backend\\CultureHubNs-Backend\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -6594,7 +6590,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
